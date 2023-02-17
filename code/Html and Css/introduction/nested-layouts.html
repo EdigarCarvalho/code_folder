@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested Layouts</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        .main{
+            width: 160px;
+            display: inline-block;
+            vertical-align: middle;
+            
+        }
+        .main-img{
+            width: 50px;
+            height: 50px;
+            margin: 0px;
+            object-fit: cover;
+            border-radius: 25px;
+        }
+        .second-div{
+            display: inline-block;
+            width: 40%;
+            vertical-align: middle;
+        }
+        .text-div{
+            display: inline-block;
+            vertical-align: middle;
+        }
+        .text1,.text2,.text3{
+            margin: 0px;
+            font-family: roboto;
+        }
+        .text1{
+            font-weight: bold;
+        }
+        .text2{
+            color: rgb(139, 139, 139);
+            font-size: 14px;
+            font-weight: medium;
+        }
+        .text3{
+            color: rgb(139, 139, 139);
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+    <fieldset>
+        <div class="second-div"><img class="main-img" src="/Html and Css/img/pixel-art-cat.jpg"></div>
+        <div class="text-div">
+            <p class="text1">oliver</p>
+            <p class="text2">the cat</p>
+            <p class="text3">Popular</p>
+        </div>
+    </fieldset>
+    </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+Pipoca_Grande----R$20,00
+Pipoca_Media----R$15,00
+Pipoca_Pequena----R$10,00
+Entrada-2d-(inteira)----R$17,00
+Entrada-3d-(inteira)----R$19,00
+Entrada-2d-(meia)----R$8,50
+Entrada-3d-(meia)----R$9,50
+Refrigerante(250ml)----R$6,00
+Agua(250ml)----R$3,00

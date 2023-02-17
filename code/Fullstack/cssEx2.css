@@ -1,0 +1,25 @@
+body{
+    font-family: roboto;
+}
+.secondary-div h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(148, 148, 172);
+    font-size: 14px;
+}
+.main-div{
+    margin: 0 6% 0 6%;
+}
+.secondary-div{
+    background-color: rgb(252, 238, 222);
+    padding: 10px 40px 10px 40px;
+}
+hr{
+    margin: 0px;
+}
+.secondary-div h2{
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+    

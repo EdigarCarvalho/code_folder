@@ -1,0 +1,19 @@
+p{
+    font-family: Montserrat;
+    text-align: center;
+    margin: 0px;
+}
+
+.over{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.under{
+    margin-top: 10px;
+    font-size: 28px;
+}
+
+.touchless{
+    text-decoration: underline;
+}
